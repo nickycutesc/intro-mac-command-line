@@ -352,7 +352,7 @@ Aeguss-MacBook-Pro:intro-mac-command-line ChristopherA$
 Brew & Cask Cleanup
 -------------------
 
-Ater we `brew` or `brew cask` anything it is best practices to tell brew to cleanup. You don't have to do this after each item brew, you can brew a number of items at once and only cleanup after.
+Ater we `brew` or `brew cask` anything, it is a good practice to tell brew to cleanup. You don't have to do this after each item brew, you can brew a number of items at once and only cleanup after.
 
 ```
 $ brew linkapps --local
